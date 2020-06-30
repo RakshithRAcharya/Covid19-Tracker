@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is deployed in the following link:[Covid19-Tracker](https://rakshithracharya.github.io/covid19-tracker/).
 
 ## Available Scripts
 
